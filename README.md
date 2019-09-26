@@ -1,7 +1,7 @@
 # Webapp
 Welcome to the Ripple Community Webapp.
 The Webapp is still in development.
-The naming like edit-4 is for version control purposes. 
+The naming like edit-1 & edit-4 is for version control purposes.
 
 # What I learn from working on this app.
 1)Vue-CLI, Vue Router and State Management with Vuex
