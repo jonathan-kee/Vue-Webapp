@@ -4,7 +4,7 @@ The Webapp is still in development.
 The naming like edit-1 & edit-4 is for version control purposes.
 
 # What I will learn from working on this app.
-1)Vue-CLI, Vue Router and State Management with Vuex
+1)Vue-CLI, Vue Router and State Management with Vuex /n
 2)Modern JavaScript (ES6/7/8)
 3)User Permissions and Protected Routes
 4)Third Party Authentication
