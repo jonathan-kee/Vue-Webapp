@@ -1,6 +1,6 @@
 # Project Webapp
 Welcome to the Ripple Community Webapp.
-Current version is vuescool-forum
+Current version is vueschool-forum
 The Webapp is still in development.
 The naming like edit-1 & edit-4 is for version control purposes.
 
